@@ -28,6 +28,6 @@ https://azure.microsoft.com/free
 
 ![Azure Portal, Image credit: Microsoft Azure](../master/images/startfree.jpeg?raw=true)
 |:--:| 
-| *Space* |
+| *Azure Portal Screenshot, Image credit: Microsoft Azure* |
 
 ### Use Existing Outlook Account
