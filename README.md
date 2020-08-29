@@ -2,8 +2,8 @@
 # Create your free Microsoft Azure account
 
 
-- [Introduction](##Introduction)
-- [Test](##Test)
+- [Introduction](##introduction)
+- [Test](##test)
     
 ## Introduction
 Microsoft Azure is a cloud computing platform. In Azure, we can develop the program or product, test and deploy it easily using their wide range of solutions.
