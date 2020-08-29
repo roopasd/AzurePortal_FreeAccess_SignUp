@@ -3,13 +3,9 @@
 
 
 - [Introduction](#introduction)
-   
-- [Test](#test)
-  
-- [Introduction](#introduction)
 - [Outlook Account](#outlook-account)
   * [Create New Outlook Account](#create-new-outlook-account)    
-- [Profile, Verificationa and Agreement](#profile-verification-and-agreement)
+- [Profile, Verification and Agreement](#profile-verification-and-agreement)
 - [Azure Portal Welcome Page](#azure-portal-welcome-page) 
  
 ## Introduction
@@ -44,32 +40,32 @@ https://azure.microsoft.com/free
 So lets create a new one, click on Create one as boxed below in green
 ![ Sign Up Page, Image credit: Microsoft Azure](../master/images/createone.jpeg?raw=true)
 |:--:| 
-| * Sign Up Page, Image credit: Microsoft Azure* |
+| *Sign Up Page, Image credit: Microsoft Azure*|
 
 Now type your new email id 
 ![ Account Creation, Image credit: Microsoft Azure](../master/images/email.jpeg?raw=true)
 |:--:| 
-| * Account Creation, Image credit: Microsoft Azure* |
+| *Account Creation, Image credit: Microsoft Azure*|
 
 Enter password and if you don’t like to receive information's, tips, offer. please uncheck. I am going to uncheck it as I read tech updates anyway .
 ![ Account Creation, Image credit: Microsoft Azure](../master/images/password.jpeg?raw=true)
 |:--:| 
-| * Account Creation, Image credit: Microsoft Azure* |
+| *Account Creation, Image credit: Microsoft Azure*|
 
 
 Please add characters below as displayed, sorry I likes the paint brush so much that I did paint on the captcha too , never mind :-)
 ![ Account Creation, Image credit: Microsoft Azure](../master/images/captcha.jpeg?raw=true)
 |:--:| 
-| * Account Creation, Image credit: Microsoft Azure* |
+| *Account Creation, Image credit: Microsoft Azure*|
 
 Congratulations, your email id is created.
 
 
-## Profile, Verificationa and Agreement
+## Profile, Verification and Agreement
 Now we have to give your details to access azure portal for free.Here looks the page where you need to give details to complete accessing to azure portal.
 ![ Add Details, Image credit: Microsoft Azure](../master/images/adddetails.jpeg?raw=true)
 |:--:| 
-| * Add Details, Image credit: Microsoft Azure* |
+| *Add Details, Image credit: Microsoft Azure*|
 
 -Section 1 : Your profile section needs your first name, last name, phone and organization details. PAN number(like SSN number) is optional ,isn't it amazing  :-) :-) .
 
@@ -81,25 +77,25 @@ Microsoft wont charge you automatically unless you would click on upgrade accoun
 And After entering credit card details and click on Next would take you to your Credit Card service provider website where you need o confirm deduction of Rs 2.
 ![ Verification Step, Image credit: Microsoft Azure](../master/images/verification.jpeg?raw=true)
 |:--:| 
-| * Verification Step, Image credit: Microsoft Azure* |
+| *Verification Step, Image credit: Microsoft Azure*|
 
 And there the last step comes ;-) . I honestly felt these steps are easy. Please read and check the agreement and sign up. 
 ![ Agreement-The final step, Image credit: Microsoft Azure](../master/images/agreement.jpeg?raw=true)
 |:--:| 
-| * Agreement-The final step, Image credit: Microsoft Azure* |
+| *Agreement-The final step, Image credit: Microsoft Azure*|
 
 
 ## Azure Portal Welcome Page
 Azure portal is now up and available up for you.
 ![ Azure Portal View after Sign-Up, Image credit: Microsoft Azure](../master/images/welcome.jpeg?raw=true)
 |:--:| 
-| * Azure Portal View after Sign-Up, Image credit: Microsoft Azure* |
+| *Azure Portal View after Sign-Up, Image credit: Microsoft Azure*|
 
 
 As I said in introduction, I have got free subscription of Rs 13,300 for 1 month whichever gets exhausted earlier either the free credits based on the resource I create or the 30 days .
 ![ ANotification, Image credit: Microsoft Azure](../master/images/notification.jpeg?raw=true)
 |:--:| 
-| * Notification, Image credit: Microsoft Azure* |
+| *Notification, Image credit: Microsoft Azure* |
 
 
 If you want to use the same resources after 1 month or exhaustion of 13,300 credits, then you need to pay and upgrade your account to "pay as you go" .
