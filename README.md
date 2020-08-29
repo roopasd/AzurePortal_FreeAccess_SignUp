@@ -26,7 +26,8 @@ Click on the link below and you would see the page as shown below
 
 https://azure.microsoft.com/free
 
-[Azure Portal, Image credit: Microsoft Azure](../master/images/startfree.jpeg?raw=true)
-
+![Azure Portal, Image credit: Microsoft Azure](../master/images/startfree.jpeg?raw=true)
+|:--:| 
+| *Space* |
 
 ### Use Existing Outlook Account
