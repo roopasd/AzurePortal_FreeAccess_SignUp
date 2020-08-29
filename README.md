@@ -23,8 +23,9 @@ I will create new account for development and sharing knowledge purpose.
 
 ### Create New Outlook Account
 Click on the link below and you would see the page as shown below
+
 https://azure.microsoft.com/free
 
-![Image of Yaktocat](https://github.com/roopasd/AzurePortal_FreeAccess_SignUp/tree/master/images/startfree.png)
+![Azure Portal, Image credit: Microsoft Azure](https://github.com/roopasd/AzurePortal_FreeAccess_SignUp/tree/master/images/startfree.png)
 
 ### Use Existing Outlook Account
