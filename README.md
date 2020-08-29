@@ -26,6 +26,6 @@ Click on the link below and you would see the page as shown below
 
 https://azure.microsoft.com/free
 
-![Alt](../master/images/startfree.jpeg “Az”)
+![Alt](../master/images/startfree.jpeg?raw=true “Az”)
 
 ### Use Existing Outlook Account
